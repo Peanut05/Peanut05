@@ -1,4 +1,4 @@
-![MasterHead](ggghttps://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <a href=#><img src="Contri.svg"></a>
 <h1 align="center">Hi 👋, I'm Krushna Gavali</h1>
 <h3 align="center">A passionate about full-stack development, Python, C, Cpp, Php && Networking from India</h3>
