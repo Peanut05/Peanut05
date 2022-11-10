@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **krushnagawali744@gmail.com**
 
-- ⚡ Fun fact **I Think I'm Funny.**
+- ⚡ ==>> **Founder of Pro Programmer... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
