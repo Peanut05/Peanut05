@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peanut05&label=Profile%20views&color=0e75b6&style=flat" alt="peanut05" /> </p>
 
-- 📫 How to reach me **krushnagawali744@gmail.com**
+- 📫 How to reach me **https://peanut05.carrd.co/**
 
 - ⚡ ==>> **Founder of Pro Programmer...**
 
