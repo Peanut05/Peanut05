@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peanut05&label=Profile%20views&color=0e75b6&style=flat" alt="peanut05" /> </p>
 
 - 📫 How to reach me **https://peanut05.carrd.co/**
-
+- ☕ Buy Me A Coffe **https://www.buymeacoffee.com/Peanut05**
 - ⚡ ==>> **Founder of Pro Programmer...**
 
 <h3 align="left">Connect with me:</h3>
