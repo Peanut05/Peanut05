@@ -14,7 +14,7 @@
 - ⚡ ==>> **Founder of Pro Programmer...**
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
+<p align="left">
 <a href="https://instagram.com/peanut_butter.bat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peanut_butter.bat" height="30" width="40" /></a>
 <a href="https://discord.gg/njA6F54j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="njA6F54j" height="30" width="40" /></a>
 </p>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peanut05&show_icons=true&locale=en" alt="peanut05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peanut05&" alt="peanut05" /></p>
- -->
