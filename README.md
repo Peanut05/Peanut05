@@ -2,7 +2,7 @@
 <!--<a href=#><img src="Contri.svg"></a> -->
 <a href=#><img src="https://www.bing.com/th/id/OGC.0c8c8d6a53a25144c1bb21b3e64b0913?pid=1.7&rurl=https%3a%2f%2fthumbs.gfycat.com%2fBetterHandmadeGull-size_restricted.gif&ehk=HkEDZwnadQU0eOdS5%2fA6LPzHxvsh%2f6wv5sYD9B3mHuY%3d">
 <h1 align="center">Hi 👋, I'm Peanut</h1>
-<h3 align="center">A passionate about full-stack development, Python, C, Cpp, Php && Networking from India</h3>
+<h3 align="center">A passionate about full-stack development , SQL|CSS|JS|JAVA|Angular|Bootstrap from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"> --> <!-- thats small right side image -->
 
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.91b513350e4fc3e7ac634fbcca36fc25?pid=1.7&rurl=https%3a%2f%2frepository-images.githubusercontent.com%2f462900780%2f0a10af70-6cbf-46df-9071-0ff586a3b1d6&ehk=ZeyKqmdBs%2fgq4BiOGiutPPkqAPTrKPMoDamz%2fR9TYFs%3d">
